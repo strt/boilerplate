@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@strt/bricks": "^2.13.0",
-    "eslint": "^5.4.0",
+    "eslint": "^8.0.0",
     "eslint-config-strateg": "^1.0.1",
     "husky": "^2.0.0",
     "lint-staged": "^8.0.0",
